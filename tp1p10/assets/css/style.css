@@ -1,0 +1,38 @@
+body{
+    background-color: #220000;
+    color: #FFF;
+}
+.bg-navbarcolor{background-color: #0c120c;}
+.navbar-header{
+    float: left;
+    text-align: center;
+    width: 100%;
+    color: #c20114;
+}
+.nav{box-shadow: 1px 1px 5px 2px grey;}
+.bg-navcolor{background-color: #880000;}
+.container{
+    height: 1898px;
+    background-color: #660000;
+    box-shadow: 1px 1px 5px 5px grey;
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    color: #000;
+    text-decoration: none;
+    font-size: 20px;
+}
+form{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.form-row{margin-bottom: 40px;}
+#btn{border-color: #000;}
+#btn:hover{background-color: #c20114;}
+#anwser{
+    margin-top: 50px;
+}

@@ -1,0 +1,51 @@
+body{
+    background-color: #D5D8DA;
+    color: black;
+}
+h1{
+    color: #FFF;
+}
+a{
+    color: #FFF;
+    text-decoration: none;
+    font-size: 20px;
+}
+a:hover{
+    color: grey;
+    text-decoration: none;
+    font-size: 20px;
+}
+h1{
+    color: #000;
+    margin-top: 50px;
+}
+#form-container{
+    color: #FFF;
+    background-color: #243447;
+    box-shadow: 1px 1px 5px 5px grey;
+}
+form{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#select-gender{
+    margin-bottom: 25px;
+}
+input{
+    margin-bottom: 25px;
+}
+#btn{
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.row{
+    display: flex;
+}
+.left-half{
+    background-color: #1c2541;
+}
+.right-half{
+    background-color: #3a506b;
+}
